@@ -12,7 +12,7 @@ TSR Sign Pack is a sign pack includes a variety of signs for many different uses
 This is my first mod for fs17 so please be patient. If you find any bugs or have any suggestions please let me know!
 
 ## Credits:
-Texture: Senka Wolf
-Idea / Concept: Senka Wolf
-Testing: The Simulator Radio Private FS Server
-Other: Bob, junglestrudsen
+- Texture: Senka Wolf
+- Idea / Concept: Senka Wolf
+- Testing: The Simulator Radio Private FS Server
+- Other: Bob, junglestrudsen
